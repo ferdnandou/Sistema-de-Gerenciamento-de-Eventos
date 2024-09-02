@@ -1,0 +1,27 @@
+# Ignorar arquivos de banco de dados
+*.db
+*.sqlite
+*.sql
+
+# Ignorar arquivos de configuração de IDEs
+.idea/
+.vscode/
+
+# Ignorar arquivos temporários do sistema
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+
+# Ignorar ambientes virtuais do Python
+venv/
+env/
+
+# Ignorar arquivos de compilação e pacotes
+*.pyc
+__pycache__/
+*.egg-info/
+
+# Ignorar arquivos de sistema
+Thumbs.db
